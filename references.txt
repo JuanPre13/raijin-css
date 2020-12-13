@@ -1,0 +1,10 @@
+FRAMEWORKS:
+
+https://uimini.vedees.ru/
+
+https://tailwindui.com/components
+
+https://bulma.io/documentation/helpers/
+
+BLOGS
+https://dev.to/merichard123/making-my-own-css-framework-50j9
